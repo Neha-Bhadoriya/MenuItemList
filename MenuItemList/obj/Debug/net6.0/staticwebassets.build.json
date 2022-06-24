@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "m/UNGyuk8pW8buCG6eCsE8mx3ZwgF+xRHIllHLFCGuk=",
+  "Hash": "3mRZJFXsOFAAWOQ8OqrtUIldoVtTQRwxxm4xlJegloE=",
   "Source": "MenuItemList",
   "BasePath": "_content/MenuItemList",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MenuItemList\\wwwroot",
+      "Source": "MenuItemList",
+      "ContentRoot": "C:\\Users\\ABC\\MenuItemList\\MenuItemList\\wwwroot\\",
+      "BasePath": "_content/MenuItemList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ABC\\MenuItemList\\MenuItemList\\wwwroot\\Default.html",
+      "SourceId": "MenuItemList",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ABC\\MenuItemList\\MenuItemList\\wwwroot\\",
+      "BasePath": "_content/MenuItemList",
+      "RelativePath": "Default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Default.html"
+    }
+  ]
 }

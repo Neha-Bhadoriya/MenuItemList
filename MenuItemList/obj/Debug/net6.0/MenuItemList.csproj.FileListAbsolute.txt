@@ -25,3 +25,4 @@ C:\Users\ABC\MenuItemList\MenuItemList\obj\Debug\net6.0\refint\MenuItemList.dll
 C:\Users\ABC\MenuItemList\MenuItemList\obj\Debug\net6.0\MenuItemList.pdb
 C:\Users\ABC\MenuItemList\MenuItemList\obj\Debug\net6.0\MenuItemList.genruntimeconfig.cache
 C:\Users\ABC\MenuItemList\MenuItemList\obj\Debug\net6.0\ref\MenuItemList.dll
+C:\Users\ABC\MenuItemList\MenuItemList\bin\Debug\net6.0\MenuItemList.staticwebassets.runtime.json
